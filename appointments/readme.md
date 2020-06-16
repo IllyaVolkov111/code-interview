@@ -1,0 +1,3 @@
+- Run `npm install`.
+- Run `npm start` inside `../pubsub` folder.
+- Run `npm start`.

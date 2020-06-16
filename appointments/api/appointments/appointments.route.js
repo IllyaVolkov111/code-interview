@@ -1,7 +1,7 @@
 const express = require("express");
 const { celebrate } = require("celebrate");
 
-const { errorMiddlware } = require("../../helpers/errorHelper");
+const { errorMiddlware } = require("../middlewares/errorHelper");
 const {
   appointmentsList,
   postAppointment
